@@ -1,0 +1,52 @@
+body
+{
+    background-color: black;
+}
+.instagram {
+    height: 608px;
+    width: 486px;
+    background-color: white;
+    margin: 5% auto;    
+}
+.instagram-header .header-logo
+{
+    margin: 10px;
+    float: left;
+}
+.instagram-header .header-text
+{
+    position: relative;
+    top: 25px;
+}
+.instagram-header .header-column-right i
+{
+    position: relative;
+    right: -370px;
+    bottom: 5px;
+}
+.instagram-imagen
+{
+    width: 100%;
+}
+.instagram-action
+{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#bmark
+{
+    padding-right: 15px;
+    float: right;
+}
+.instagram-likes
+{
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.instagram-comment
+{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
